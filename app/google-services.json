@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495743762795",
+    "firebase_url": "https://fir-first-prac.firebaseio.com",
+    "project_id": "fir-first-prac",
+    "storage_bucket": "fir-first-prac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495743762795:android:74d377230f6287bc",
+        "android_client_info": {
+          "package_name": "josep.com.firebasedatabasefirstexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495743762795-r4upjsfppfdojrts3q2ushkagasdq6gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzpCgLLNCD3CehNIEejFNgLjzz8q-h_g8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
